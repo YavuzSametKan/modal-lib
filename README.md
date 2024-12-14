@@ -1,6 +1,6 @@
-# Index Lib
+# Modal Lib
 
-**Index Lib** is a flexible, reusable modal component designed to simplify the integration of modals across various web projects. This component focuses on providing a customizable and lightweight modal solution that enhances user interaction and maintains consistent styling.
+**Modal Lib** is a flexible, reusable modal component designed to simplify the integration of modals across various web projects. This component focuses on providing a customizable and lightweight modal solution that enhances user interaction and maintains consistent styling.
 
 ## Purpose
 
